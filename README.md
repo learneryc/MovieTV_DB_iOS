@@ -6,7 +6,7 @@ Run `npm install` under `MovieTV_DB_iOS/server/`
 Run `npm run start` to start the server
 
 
-##iOS App
+## iOS App
 
 ### Install CocoaPods
 Run `sudo gem install cocoapods`
