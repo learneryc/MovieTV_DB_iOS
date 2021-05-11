@@ -1,0 +1,23 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'movieBar' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for movieBar
+  pod “Alamofire”
+  pod 'SwiftyJSON', '~> 4.0'
+  pod 'Kingfisher', '~> 6.0'
+  pod "youtube-ios-player-helper"
+
+  target 'movieBarTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'movieBarUITests' do
+    # Pods for testing
+  end
+
+end

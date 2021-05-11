@@ -1,0 +1,6 @@
+framework module Pods_movieBar {
+  umbrella header "Pods-movieBar-umbrella.h"
+
+  export *
+  module * { export * }
+}
