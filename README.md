@@ -1,5 +1,6 @@
 # MovieTV_DB_iOS
 
+Here is [video demo](https://www.youtube.com/watch?v=MJHoDY8haIg)
 
 ## Backend
 Run `npm install` under `MovieTV_DB_iOS/server/`
